@@ -25,5 +25,3 @@ char *create_array(unsigned int size, char c)
 
 	return (cr);
 }
-© 2022 GitHub, Inc.
-Terms
